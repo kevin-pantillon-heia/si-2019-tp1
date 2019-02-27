@@ -1,7 +1,7 @@
 Welcome on SI-I TP1
 ===================
 
-If you are a student at the HEIA-FR and you follow the SI-I course, you have come to the right place !
+If you are a student at the HEIA-FR and you follow the SI-I course, you have come to the right place ! (very nice)
 
 This is a tiny tutorial explaining how to make a pull request on a Github repo. Just follow the steps and feel free to ask any questions you have to the handsome guy standing in front of the classroom.
 
